@@ -12,7 +12,7 @@
 * Ihre Lösung muss allen R-Code für die Beantwortung der Aufgabe enthalten sowie, wo nötig, eine ausformulierte Antwort. Letzteres am liebsten als `.(R)md`-File.
 * Speichern Sie alles was zu Ihrer Lösung gehört in diesem Github-Repository, unter **aussagekräftigen und sinnvollen** Dateinamen. Am einfachsten indem Sie Ihre Lösung als `<NAME-DER-AUFGABE>-sol.R` und, falls gefragt, die dazugehörigen Tests als `tests-<NAME-DER-AUFGABE>.R` abspeichern.  
 Für alles was Sie für sich abspeichern und aber für mich nicht relevant ist (Notizen, Fehlversuche, etc..) legen Sie bitte entsprechende Unterordner an. Etablierte Konvention ist, sowas in einen Unterordner `/attic` zu legen.
-* **(Große) Files die aus Quelldateien erzeugt werden (zB Grafiken die ihre Skripte erzeugen, HTMLs oder PDFs von ihren Rmarkdown-Dateien, etc) bitte zu dem `.gitignore`-File hinzufügen damit die Repositories eine handliche Größe behalten. Genauso auch die von RStudio angelegten `.Rproj` etc. files, s.a. `?usethis::git_vaccinate` bzw. <https://github.com/github/gitignore/blob/master/R.gitignore>.**
+* **(Große) Files die aus Quelldateien erzeugt werden (zB Grafiken die ihre Skripte erzeugen, HTMLs oder PDFs von ihren Rmarkdown-Dateien, etc) bitte zu dem `.gitignore`-File hinzufügen damit die Repositories eine handliche Größe behalten. Genauso auch die von RStudio angelegten `.Rproj` etc. files, s.a. `?usethis::git_vaccinate`.  bzw. <https://github.com/github/gitignore/blob/master/R.gitignore>.**
 
 ### Habe fertig:
 
