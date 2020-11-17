@@ -1,0 +1,18 @@
+# Aufgabe a.
+Im Gegensatz zu einer Liste müssen  bei `environments` alle Objekte
+eindeutige, einzigartige Namen besitzen.\
+`environments` sind nicht geordnet. 
+\
+Sie besitzen eine Elternumgebung.\
+Sie enthalten
+nicht die Werte der Objekte selbst, sondern nur einen Pointer auf den Speicherort
+des Objekts. (reference semantics)
+
+# Aufgabe b.
+Wird nicht extra ein `environment` angegeben, so suchen `ls()` und `rm()` im
+`Global Environment`
+
+# Aufgabe c.
+`<-` legt die Bindung im aktuellen `environment` an in dem man sich befindet.\
+`<<-` hingegen bindet einen bestehenden Namen neu, der in einem parent des
+aktuellen `environments`liegt.
